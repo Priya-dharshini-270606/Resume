@@ -1,0 +1,71 @@
+h1{
+    color: black;
+    
+}
+#box
+{
+    width:50%;
+    margin: auto;
+    line-height: 1.6;
+    padding:5px 10px;
+    min-height:100vh;
+    border:2px solid;
+    color:black;
+    
+    /* Body style */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+/* Main box style */
+#box {
+    background-color: white;
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #004080;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Section titles like Education, Experience */
+.section-title {
+    background-color: #004080;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+/* Paragraph spacing */
+p {
+    margin: 5px 0;
+}
+
+/* Skills list style */
+ul {
+    padding-left: 20px;
+}
+
+/* Links */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+}
