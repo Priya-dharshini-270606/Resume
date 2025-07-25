@@ -36,11 +36,6 @@ You can view the resume live [here](/https://github.com/Priya-dharshini-270606/R
 - 🔗 [LinkedIn](https://www.linkedin.com/in/priyadharshini-venkatesan-b58436316/)  
 - 💻 [GitHub](https://github.com/Priya-dharshini-270606)
 
-## 📸 Screenshot
-
-![Resume Screenshot](screenshot.png)  
-*(You can take a screenshot of your resume page and save it as `screenshot.png` in the repo)*
-
 ## 📢 License
 
 This project is licensed under the MIT License. You’re free to use and modify it.
